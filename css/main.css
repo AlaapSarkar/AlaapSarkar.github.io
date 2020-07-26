@@ -42,3 +42,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+ul.blog li {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
