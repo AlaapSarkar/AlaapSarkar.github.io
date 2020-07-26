@@ -7,7 +7,7 @@ title: Alaap's Blog
 
 	  {% for post in site.posts %}
 	    <tr>
-		<td><span>{{ post.date | date_to_string }}</span></td>
+		<td style="text-align:center"><span>{{ post.date | date_to_string }}</span></td>
 		<td><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></td>
 	    </tr>
 	  {% endfor %}
