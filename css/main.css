@@ -51,7 +51,12 @@ ol li {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-table tr th, table tr td {
+table tr td {
+    font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+table tr th {
     font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
